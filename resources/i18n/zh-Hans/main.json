@@ -28,7 +28,7 @@
 
     "info": {
         "about": "关于",
-        "about_msg": "Tencent switcher GUI\n(c) 2021 菜“秒” a.k.a. CaiMiao\n　高产卫星的秘密：复制粘贴",
+        "about_msg": "Tencent switcher GUI\n(c) 2021 菜“秒” a.k.a. CaiMiao , gzk_47重编译\n　高产卫星的秘密：复制粘贴",
         "now_val": "当前值（打开此App时）",
         "btn_show_val": "显示当前值",
         "btn_brick": "打开砖家选项",
@@ -66,3 +66,4 @@
 
     "EOL": ""
 }
+
