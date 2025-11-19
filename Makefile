@@ -44,7 +44,7 @@ DATA		:=	data
 ICON		:=	resources/icon/rip.jpg
 INCLUDES	:=	include
 APP_TITLE	:=	Tencent switcher GUI
-APP_AUTHOR	:=	CaiMiao
+APP_AUTHOR	:=	CaiMiao , gzk_47(mod)
 APP_VERSION	:=	0.1.2
 
 ROMFS				:=	resources
