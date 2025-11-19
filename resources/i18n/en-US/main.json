@@ -28,7 +28,7 @@
 
     "info": {
         "about": "About",
-        "about_msg": "Tencent switcher GUI\n(c) 2021 CaiMiao\nMasterpiece of copy&paste development",
+        "about_msg": "Tencent switcher GUI\n(c) 2021 CaiMiao , gzk_47(mod)\nMasterpiece of copy&paste development",
         "now_val": "Current Values (when this app was launched)",
         "btn_show_val": "Show current values",
         "btn_brick": "Spawn Hardcore Mode",
@@ -66,3 +66,4 @@
 
     "EOL": ""
 }
+
